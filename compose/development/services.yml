@@ -1,0 +1,175 @@
+version: "3.7"
+
+services:
+  eshopnginxproxy-service:
+    image: aasolution.azurecr.io/eshopnginxproxy
+    container_name: eshopnginxproxy-service
+    restart: unless-stopped
+    ports:
+      - 80:80
+      - 443:443
+    environment:
+      - NGINX_HOST=adrianadamiaksolutions.pl
+      - NGINX_CLIENT_PORT=8210
+      - NGINX_ADMIN_PORT=810
+      - NGINX_CLIENTAPI_PORT=821
+      - NGINX_ADMINAPI_PORT=811
+      - NGINX_WEBHOOKS_PORT=800
+    networks:
+      - aasolution
+
+  eshopwebhooks-gateway:
+    image: aasolution.azurecr.io/eshopwebhooks
+    container_name: eshopwebhooks-gateway
+    restart: unless-stopped
+    environment:
+      - NTRADA_CONFIG=ntrada.docker.yml
+      - ASPNETCORE_HTTPS_PORT=800
+    ports:
+      - 8001:80
+      - 800:443
+    networks:
+      - aasolution
+
+  eshopapi-gateway:
+    image: aasolution.azurecr.io/eshopapigateway
+    container_name: eshopapigateway-gateway
+    restart: unless-stopped
+    environment:
+      - NTRADA_CONFIG=ntrada.docker.yml
+      - ASPNETCORE_HTTPS_PORT=821
+    ports:
+      - 8211:80
+      - 821:443
+    networks:
+      - aasolution
+
+  eshopadmin-gateway:
+    image: aasolution.azurecr.io/eshopadmingateway
+    container_name: eshopadmingateway-gateway
+    restart: unless-stopped
+    environment:
+      - NTRADA_CONFIG=ntrada.docker.yml
+      - ASPNETCORE_HTTPS_PORT=811
+    ports:
+      - 8111:80
+      - 811:443
+    networks:
+      - aasolution
+
+  eshopclient-service:
+    image: aasolution.azurecr.io/eshopclient
+    container_name: eshopclient-service
+    restart: unless-stopped
+    ports:
+      - 8210:80
+    networks:
+      - aasolution
+
+  eshopadmin-service:
+    image: aasolution.azurecr.io/eshopadmin
+    container_name: eshopadmin-service
+    restart: unless-stopped
+    ports:
+      - 8110:80
+      - 810:443
+    environment:
+      - NGINX_HOST=adrianadamiaksolutions.pl
+      - NGINX_SSL_PORT=810
+    networks:
+      - aasolution
+
+  eshopauth-service:
+    image: aasolution.azurecr.io/eshopauth
+    container_name: eshopauth-service
+    restart: unless-stopped
+    ports:
+      - 8510:80
+    networks:
+      - aasolution
+
+  eshopstock-service:
+    image: aasolution.azurecr.io/eshopstock
+    container_name: eshopstock-service
+    restart: unless-stopped
+    ports:
+      - 8119:80
+    networks:
+      - aasolution
+
+  eshopfiles-service:
+    image: aasolution.azurecr.io/eshopfiles
+    container_name: eshopfiles-service
+    restart: unless-stopped
+    ports:
+      - 8160:80
+    networks:
+      - aasolution
+
+  eshopavailability-service:
+    image: aasolution.azurecr.io/eshopavailability
+    container_name: eshopavailability-service
+    restart: unless-stopped
+    ports:
+      - 8185:80
+    networks:
+      - aasolution
+
+  eshoporders-service:
+    image: aasolution.azurecr.io/eshoporders
+    container_name: eshoporders-service
+    restart: unless-stopped
+    ports:
+      - 8870:80
+    networks:
+      - aasolution
+
+  eshopnotification-service:
+    image: aasolution.azurecr.io/eshopnotification
+    container_name: eshopnotification-service
+    restart: unless-stopped
+    ports:
+      - 8930:80
+    networks:
+      - aasolution
+
+  eshopcustomers-service:
+    image: aasolution.azurecr.io/eshopcustomers
+    container_name: eshopcustomers-service
+    restart: unless-stopped
+    ports:
+      - 8390:80
+    networks:
+      - aasolution
+
+  eshoppayments-service:
+    image: aasolution.azurecr.io/eshoppayments
+    container_name: eshoppayments-service
+    restart: unless-stopped
+    ports:
+      - 8516:80
+    networks:
+      - aasolution
+
+  eshopshipment-service:
+    image: aasolution.azurecr.io/eshopshipment
+    container_name: eshopshipment-service
+    restart: unless-stopped
+    ports:
+      - 8365:80
+    networks:
+      - aasolution
+
+  eshopsystem-service:
+    image: aasolution.azurecr.io/eshopsystem
+    container_name: eshopsystem-service
+    restart: unless-stopped
+    ports:
+      - 8950:80
+    networks:
+      - aasolution
+
+networks:
+  aasolution:
+    name: aasolution-network
+    external: true
