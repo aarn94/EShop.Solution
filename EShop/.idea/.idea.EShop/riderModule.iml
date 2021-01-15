@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../../EShop.APIGateway/src/EShop.APIGateway" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.AdminGateway/src/EShop.AdminGateway" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Auth/src/EShop.Auth.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Auth/src/EShop.Auth.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Auth/src/EShop.Auth.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Auth/src/EShopAuth.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Availability/src/EShop.Availability.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Availability/src/EShop.Availability.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Availability/src/EShop.Availability.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Availability/src/EShop.Availability.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Customers/src/EShop.Customers.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Customers/src/EShop.Customers.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Customers/src/EShop.Customers.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Customers/src/EShop.Customers.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Files/src/EShop.Files.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Files/src/EShop.Files.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Files/src/EShop.Files.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Files/src/EShop.Files.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Notification/src/EShop.Notification.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Notification/src/EShop.Notification.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Notification/src/EShop.Notification.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Notification/src/EShop.Notification.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Orders/src/EShop.Orders.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Orders/src/EShop.Orders.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Orders/src/EShop.Orders.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Orders/src/EShop.Orders.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Payments/src/EShop.Payments.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Payments/src/EShop.Payments.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Payments/src/EShop.Payments.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Payments/src/EShop.Payments.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Shipment/src/EShop.Shipment.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Shipment/src/EShop.Shipment.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Shipment/src/EShop.Shipment.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Shipment/src/EShop.Shipment.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Stock/src/EShop.Stock.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Stock/src/EShop.Stock.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Stock/src/EShop.Stock.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Stock/src/EShop.Stock.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.System/src/EShop.System.Api" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.System/src/EShop.System.Application" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.System/src/EShop.System.Core" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.System/src/EShop.System.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../../EShop.Webhooks/src/EShop.Webhooks" />
+    <content url="file://$USER_HOME$/.nuget/packages/microsoft.visualstudio.threading.analyzers/16.8.55/build/AdditionalFiles/vs-threading.LegacyThreadSwitchingMembers.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/microsoft.visualstudio.threading.analyzers/16.8.55/build/AdditionalFiles/vs-threading.MainThreadAssertingMethods.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/microsoft.visualstudio.threading.analyzers/16.8.55/build/AdditionalFiles/vs-threading.MainThreadSwitchingMethods.txt" />
+    <content url="file://$USER_HOME$/.nuget/packages/microsoft.visualstudio.threading.analyzers/16.8.55/build/AdditionalFiles/vs-threading.MembersRequiringMainThread.txt" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

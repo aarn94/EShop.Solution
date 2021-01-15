@@ -1,0 +1,2441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\AAS\EShop.AdminGateway\src\EShop.AdminGateway" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.AdminGateway.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.AdminGateway.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ocelot.docker.json" t="Include" />
+      <e p="ocelot.json" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.APIGateway\src\EShop.APIGateway" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.APIGateway.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.APIGateway.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ocelot.docker.json" t="Include" />
+      <e p="ocelot.json" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Auth\src\EShop.Auth.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Auth.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201219.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210108.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210111.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Auth.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Auth\src\EShop.Auth.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Entities" t="Include">
+        <e p="AppClaimValue.cs" t="Include" />
+        <e p="RefreshToken.cs" t="Include" />
+        <e p="ResetPasswordProcess.cs" t="Include" />
+        <e p="Role.cs" t="Include" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="EShop.Auth.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="Rejected" t="Include" />
+        <e p="RoleCreated.cs" t="Include" />
+        <e p="UserCreated.cs" t="Include" />
+        <e p="UserUpdated.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="AccountAlreadyConfirmedException.cs" t="Include" />
+        <e p="AccountNotConfirmedByMailException.cs" t="Include" />
+        <e p="AccountNotConfirmedByPhoneException.cs" t="Include" />
+        <e p="AccountNotConfirmedException.cs" t="Include" />
+        <e p="InvalidEmailException.cs" t="Include" />
+        <e p="InvalidPhoneException.cs" t="Include" />
+        <e p="MissingUserFieldException.cs" t="Include" />
+        <e p="RevokedRefreshTokenException.cs" t="Include" />
+        <e p="TermsNotAcceptedException.cs" t="Include" />
+        <e p="TokenMaxLimitExceededException.cs" t="Include" />
+        <e p="UserAlreadyExistsException.cs" t="Include" />
+        <e p="UserNotFoundException.cs" t="Include" />
+        <e p="UserPhoneAndEmailSetException.cs" t="Include" />
+        <e p="UserSignUpException.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Auth.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="IRefreshTokenRepository.cs" t="Include" />
+        <e p="IResetPasswordProcessRepository.cs" t="Include" />
+        <e p="IRoleRepository.cs" t="Include" />
+        <e p="IUserRepository.cs" t="Include" />
+      </e>
+      <e p="ValueObjects" t="Include">
+        <e p="AppClaim.cs" t="Include" />
+        <e p="AppRole.cs" t="Include" />
+        <e p="AppRoleExtensions.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Auth\src\EShop.Auth.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.Auth.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Identity" t="Include">
+        <e p="IdentityExtensions.cs" t="Include" />
+      </e>
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include">
+          <e p="RolesAndAdminInitialUserMigration.cs" t="Include" />
+        </e>
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="Documents" t="Include">
+          <e p="AppIdentityRole.cs" t="Include" />
+          <e p="AppIdentityUser.cs" t="Include" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="RefreshTokenDocument.cs" t="Include" />
+          <e p="ResetPasswordProcessDocument.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="RefreshTokenRepository.cs" t="Include" />
+          <e p="ResetPasswordProcessRepository.cs" t="Include" />
+          <e p="RoleRepository.cs" t="Include" />
+          <e p="UserRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Auth.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Services" t="Include">
+        <e p="AppUserManager.cs" t="Include" />
+        <e p="Clients" t="Include" />
+        <e p="JwtProvider.cs" t="Include" />
+        <e p="Rng.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Auth\src\EShopAuth.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="ChangePassword.cs" t="Include" />
+        <e p="ForgetPassword.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="ChangePasswordHandler.cs" t="Include" />
+          <e p="ForgetPasswordHandler.cs" t="Include" />
+          <e p="SignUpHandler.cs" t="Include" />
+          <e p="UpdateAccountDataHandler.cs" t="Include" />
+          <e p="VerifyResetPasswordHandler.cs" t="Include" />
+        </e>
+        <e p="ResetPassword.cs" t="Include" />
+        <e p="ResetPasswordHandler.cs" t="Include" />
+        <e p="RevokeAccessToken.cs" t="Include" />
+        <e p="RevokeRefreshToken.cs" t="Include" />
+        <e p="SignIn.cs" t="Include" />
+        <e p="SignUp.cs" t="Include" />
+        <e p="UpdateAccountData.cs" t="Include" />
+        <e p="UseRefreshToken.cs" t="Include" />
+        <e p="VerifyResetPassword.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="AddEmailVerificationProcessDTO.cs" t="Include" />
+        <e p="AuthDTO.cs" t="Include" />
+        <e p="EmailVerificationProcessDTO.cs" t="Include" />
+        <e p="UserDTO.cs" t="Include" />
+      </e>
+      <e p="EShop.Auth.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="AccountMailResetPasswordStarted.cs" t="Include" />
+        <e p="EventMapper.cs" t="Include" />
+        <e p="Rejected" t="Include">
+          <e p="ForgetPasswordRejected.cs" t="Include" />
+          <e p="ResetPasswordRejected.cs" t="Include" />
+          <e p="SignInRejected.cs" t="Include" />
+          <e p="SignUpRejected.cs" t="Include" />
+        </e>
+        <e p="ResetPasswordSuccess.cs" t="Include" />
+        <e p="SignedIn.cs" t="Include" />
+        <e p="SignedUp.cs" t="Include" />
+        <e p="UserDataUpdated.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="ConfirmationEmailProcessNotExistsException.cs" t="Include" />
+        <e p="ConfirmEmailFailedException.cs" t="Include" />
+        <e p="ConfirmPhoneNumberFailedException.cs" t="Include" />
+        <e p="InvalidPasswordException.cs" t="Include" />
+        <e p="InvalidRefreshTokenException.cs" t="Include" />
+        <e p="NoAuthenticatedException.cs" t="Include" />
+        <e p="NoAuthorizedException.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Auth.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetForgetPasswordCode.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="GetForgetPasswordCodeHandler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="AuthenticationService.cs" t="Include" />
+        <e p="ClaimsProvider.cs" t="Include" />
+        <e p="Clients" t="Include" />
+        <e p="IAuthenticationService.cs" t="Include" />
+        <e p="IClaimsProvider.cs" t="Include" />
+        <e p="IJwtProvider.cs" t="Include" />
+        <e p="IRefreshTokenService.cs" t="Include" />
+        <e p="IRng.cs" t="Include" />
+        <e p="RefreshTokenService.cs" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Availability\src\EShop.Availability.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Availability.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201211_001.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201219.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210111.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Availability.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Availability\src\EShop.Availability.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="AddLoad.cs" t="Include" />
+        <e p="CancelOrder.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="AddLoadHandler.cs" t="Include" />
+          <e p="CancelOrderHandler.cs" t="Include" />
+          <e p="OrderProductsHandler.cs" t="Include" />
+          <e p="UpdateLoadHandler.cs" t="Include" />
+        </e>
+        <e p="OrderProducts.cs" t="Include" />
+        <e p="UpdateLoad.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="LoadAvailabilityChangeDto.cs" t="Include" />
+        <e p="LoadAvailabilityChangeItemDto.cs" t="Include" />
+        <e p="LoadDto.cs" t="Include" />
+        <e p="LoadProductDto.cs" t="Include" />
+        <e p="ProductAvailabilityCountDto.cs" t="Include" />
+      </e>
+      <e p="EShop.Availability.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="HistoryUpdateHandler.cs" t="Include" />
+        <e p="ProductsAvailabilityChangeHandler.cs" t="Include" />
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Availability.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetAllAvailableProducts.cs" t="Include" />
+        <e p="GetLoad.cs" t="Include" />
+        <e p="GetLoads.cs" t="Include" />
+        <e p="GetProductsAvailability.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include" />
+        <e p="IProductsAvailabilityService.cs" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Availability\src\EShop.Availability.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DTO" t="Include">
+        <e p="ProductAvailabilityDto.cs" t="Include" />
+        <e p="ProductAvailabilityRequestDto.cs" t="Include" />
+      </e>
+      <e p="Entities" t="Include">
+        <e p="Load.cs" t="Include" />
+        <e p="LoadAvailabilityChange.cs" t="Include" />
+        <e p="LoadAvailabilityChangeItem.cs" t="Include" />
+        <e p="LoadProduct.cs" t="Include" />
+        <e p="ProductAvailability.cs" t="Include" />
+      </e>
+      <e p="EShop.Availability.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="LoadAdded.cs" t="Include" />
+        <e p="LoadAllowedToSell.cs" t="Include" />
+        <e p="LoadDeleted.cs" t="Include" />
+        <e p="LoadToSellModified.cs" t="Include" />
+        <e p="LoadUpdated.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="LoadAlreadyDeletedException.cs" t="Include" />
+        <e p="LoadNotExistsException.cs" t="Include" />
+        <e p="ProductNotAvailableException.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include">
+        <e p="LoadCompare.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Availability.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="IAvailabilityHistoryRepository.cs" t="Include" />
+        <e p="ILoadRepository.cs" t="Include" />
+        <e p="IProductAvailabilityRepository.cs" t="Include" />
+      </e>
+      <e p="ValueObjects" t="Include">
+        <e p="AvailabilityStatus.cs" t="Include" />
+        <e p="ProductRootType.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Availability\src\EShop.Availability.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.Availability.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include">
+          <e p="AvailabilityIndexMigration.cs" t="Include" />
+        </e>
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="Extensions.cs" t="Include" />
+          <e p="LoadAvailabilityChangeDocument.cs" t="Include" />
+          <e p="LoadAvailabilityChangeItemDocument.cs" t="Include" />
+          <e p="LoadDocument.cs" t="Include" />
+          <e p="LoadProductDocument.cs" t="Include" />
+          <e p="ProductAvailabilityDocument.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="GetAllAvailableProductsHandler.cs" t="Include" />
+            <e p="GetLoadHandler.cs" t="Include" />
+            <e p="GetLoadsHandler.cs" t="Include" />
+            <e p="GetProductsAvailabilityHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="AvailabilityHistoryRepository.cs" t="Include" />
+          <e p="LoadRepository.cs" t="Include" />
+          <e p="ProductAvailabilityRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Availability.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include" />
+      <e p="Queries" t="Include" />
+      <e p="Services" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Customers\src\EShop.Customers.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Customers.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210108.txt" t="Include" />
+        <e p="logs20210109.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210111.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210112_001.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Customers.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Customers\src\EShop.Customers.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="Addresses" t="Include">
+          <e p="AddAddress.cs" t="Include" />
+          <e p="DeleteAddress.cs" t="Include" />
+          <e p="Handlers" t="Include">
+            <e p="AddAddressHandler.cs" t="Include" />
+            <e p="DeleteAddressHandler.cs" t="Include" />
+            <e p="SetDefaultAddressForBillingHandler.cs" t="Include" />
+            <e p="SetDefaultAddressForShipmentHandler.cs" t="Include" />
+            <e p="UpdateAddressHandler.cs" t="Include" />
+          </e>
+          <e p="SetDefaultAddressForBilling.cs" t="Include" />
+          <e p="SetDefaultAddressForShipment.cs" t="Include" />
+          <e p="UpdateAddress.cs" t="Include" />
+        </e>
+        <e p="Cards" t="Include">
+          <e p="AddCartItem.cs" t="Include" />
+          <e p="ClearCart.cs" t="Include" />
+          <e p="FinishCart.cs" t="Include" />
+          <e p="Handlers" t="Include">
+            <e p="AddCartItemHandler.cs" t="Include" />
+            <e p="CartClearedHandler.cs" t="Include" />
+            <e p="CartFinishedHandler.cs" t="Include" />
+            <e p="CartRefreshedHandler.cs" t="Include" />
+            <e p="RemoveCartItemHandler.cs" t="Include" />
+          </e>
+          <e p="RefreshCart.cs" t="Include" />
+          <e p="RemoveCartItem.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DTO" t="Include">
+        <e p="Admin" t="Include">
+          <e p="CustomerAddressAdminDto.cs" t="Include" />
+          <e p="CustomerDto.cs" t="Include" />
+        </e>
+        <e p="CartDto.cs" t="Include" />
+        <e p="CartItemDto.cs" t="Include" />
+        <e p="CartItemPricingDto.cs" t="Include" />
+        <e p="CompanyAddressDto.cs" t="Include" />
+        <e p="CustomerAddressDto.cs" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="PrivateAddressDto.cs" t="Include" />
+      </e>
+      <e p="EShop.Customers.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="CartChangedHandler.cs" t="Include" />
+        <e p="EventMapper.cs" t="Include" />
+        <e p="External" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="SignedUpHandler.cs" t="Include" />
+            <e p="UserDataUpdatedHandler.cs" t="Include" />
+          </e>
+          <e p="SignedUp.cs" t="Include" />
+          <e p="UserDataUpdated.cs" t="Include" />
+        </e>
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Customers.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetCart.cs" t="Include" />
+        <e p="GetCustomerAddresses.cs" t="Include" />
+        <e p="GetCustomers.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include" />
+        <e p="ICartCacheManager.cs" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Customers\src\EShop.Customers.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Entities" t="Include">
+        <e p="Carts" t="Include">
+          <e p="Cart.cs" t="Include" />
+          <e p="CartItem.cs" t="Include" />
+          <e p="CartItemPricing.cs" t="Include" />
+        </e>
+        <e p="Customer.cs" t="Include" />
+        <e p="CustomerAddress.cs" t="Include" />
+      </e>
+      <e p="EShop.Customers.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="CartChanged.cs" t="Include" />
+        <e p="CartCleared.cs" t="Include" />
+        <e p="CartFinished.cs" t="Include" />
+        <e p="CartItemAdded.cs" t="Include" />
+        <e p="CartItemRemoved.cs" t="Include" />
+        <e p="CartRefreshed.cs" t="Include" />
+        <e p="CustomerAddressCreated.cs" t="Include" />
+        <e p="CustomerAddressDeleted.cs" t="Include" />
+        <e p="CustomerAddressUpdated.cs" t="Include" />
+        <e p="CustomerCreated.cs" t="Include" />
+        <e p="DefaultBillingAddressChanged.cs" t="Include" />
+        <e p="DefaultShipmentAddressChanged.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="AddressNotExists.cs" t="Include" />
+        <e p="CartInvalidStateException.cs" t="Include" />
+        <e p="CustomerNotExists.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Customers.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="ICartRepository.cs" t="Include" />
+        <e p="ICustomerAddressRepository.cs" t="Include" />
+        <e p="ICustomerRepository.cs" t="Include" />
+      </e>
+      <e p="ValueObjects" t="Include">
+        <e p="CartStatus.cs" t="Include" />
+        <e p="CompanyAddress.cs" t="Include" />
+        <e p="PrivateAddress.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Customers\src\EShop.Customers.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.Customers.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="EventStore" t="Include">
+        <e p="Queries" t="Include">
+          <e p="GetCartHandler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="CompanyAddressDocument.cs" t="Include" />
+          <e p="CustomerAddressDocument.cs" t="Include" />
+          <e p="CustomerDocument.cs" t="Include" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="PrivateAddressDocument.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="GetCustomerAddressesHandler.cs" t="Include" />
+            <e p="GetCustomersHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="CartRepository.cs" t="Include" />
+          <e p="CustomerAddressRepository.cs" t="Include" />
+          <e p="CustomerRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Customers.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="InPostOptions.cs" t="Include" />
+      </e>
+      <e p="Queries" t="Include" />
+      <e p="Services" t="Include">
+        <e p="CartCacheManager.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Files\src\EShop.Files.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Files.Api.csproj" t="IncludeRecursive" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="FIlesController.cs" t="Include" />
+      <e p="logs" t="Include">
+        <e p="logs20201130.txt" t="Include" />
+        <e p="logs20201203.txt" t="Include" />
+        <e p="logs20201204.txt" t="Include" />
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Files.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="UploadFilesRequest.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Files\src\EShop.Files.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="DeleteFile.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="DeleteFileHandler.cs" t="Include" />
+          <e p="ReplaceFileHandler.cs" t="Include" />
+          <e p="UploadFileHandler.cs" t="Include" />
+        </e>
+        <e p="ReplaceFile.cs" t="Include" />
+        <e p="UploadFIle.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="FileDTO.cs" t="Include" />
+      </e>
+      <e p="EShop.Files.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="FileAlreadyExistsException.cs" t="Include" />
+        <e p="FileNotExistsException.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Files.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetFile.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include" />
+        <e p="IFileService.cs" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Files\src\EShop.Files.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Entities" t="Include" />
+      <e p="EShop.Files.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include" />
+      <e p="Exceptions" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Files.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include" />
+      <e p="ValueObjects" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Files\src\EShop.Files.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.Files.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="Extensions.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include" />
+        </e>
+        <e p="Repositories" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Files.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="BlobStorageOptions.cs" t="Include" />
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetFileHandler.cs" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="AzureFileService.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Notification\src\EShop.Notification.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Notification.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201128.txt" t="Include" />
+        <e p="logs20201130.txt" t="Include" />
+        <e p="logs20201203.txt" t="Include" />
+        <e p="logs20201204.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Notification.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Notification\src\EShop.Notification.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="Handlers" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="EmailResetProcessData.cs" t="Include" />
+        <e p="EmailSignedUpData.cs" t="Include" />
+      </e>
+      <e p="EShop.Notification.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="External" t="Include">
+          <e p="AccountMailResetPasswordStarted.cs" t="Include" />
+          <e p="Handlers" t="Include">
+            <e p="AccountMailResetPasswordStartedHandler.cs" t="Include" />
+            <e p="SignedUpHandler.cs" t="Include" />
+          </e>
+          <e p="SignedUp.cs" t="Include" />
+        </e>
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Notification.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="TemplatesOptions.cs" t="Include" />
+      </e>
+      <e p="Queries" t="Include" />
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include" />
+        <e p="ITemplateMailingService.cs" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Notification\src\EShop.Notification.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Entities" t="Include" />
+      <e p="EShop.Notification.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include" />
+      <e p="Exceptions" t="Include" />
+      <e p="Helpers" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Notification.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include" />
+      <e p="ValueObjects" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Notification\src\EShop.Notification.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.Notification.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Mailing" t="Include">
+        <e p="SendGridOptions.cs" t="Include" />
+        <e p="SendGridTemplateMailingService.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="Extensions.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include" />
+        </e>
+        <e p="Repositories" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Notification.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include" />
+      <e p="Queries" t="Include" />
+      <e p="Services" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Orders\src\EShop.Orders.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Orders.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201211_001.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201219.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210111.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Orders.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Orders\src\EShop.Orders.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="CancelOrder.cs" t="Include" />
+        <e p="ConfirmPayment.cs" t="Include" />
+        <e p="CreateOrder.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="CancelOrderHandler.cs" t="Include" />
+          <e p="ConfirmPaymentHandler.cs" t="Include" />
+          <e p="CreateOrderHandler.cs" t="Include" />
+          <e p="UpdatePaymentTypeHandler.cs" t="Include" />
+          <e p="UpdateShopCommentsHandler.cs" t="Include" />
+        </e>
+        <e p="UpdatePaymentType.cs" t="Include" />
+        <e p="UpdateShopComments.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="Addresses" t="Include">
+          <e p="AddressDto.cs" t="Include" />
+          <e p="BaseAddressDto.cs" t="Include" />
+          <e p="CompanyAddressDto.cs" t="Include" />
+          <e p="PrivateAddressDto.cs" t="Include" />
+        </e>
+        <e p="Availability" t="Include">
+          <e p="CancelOrderRequestDto.cs" t="Include" />
+          <e p="OrderProductsDto.cs" t="Include" />
+          <e p="ProductAvailabilityRequestDto.cs" t="Include" />
+        </e>
+        <e p="CartPriceDto.cs" t="Include" />
+        <e p="Carts" t="Include">
+          <e p="CartDto.cs" t="Include" />
+          <e p="CartItemDto.cs" t="Include" />
+          <e p="PricingDto.cs" t="Include" />
+        </e>
+        <e p="CheckOutDto.cs" t="Include" />
+        <e p="CouponDto.cs" t="Include" />
+        <e p="CreateOrderDto.cs" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="LayoutOrderDto.cs" t="Include" />
+        <e p="OrderChangeDto.cs" t="Include" />
+        <e p="OrderDetailsDto.cs" t="Include" />
+        <e p="OrderDto.cs" t="Include" />
+        <e p="OrderShipmentDto.cs" t="Include" />
+        <e p="PaymentTypeDto.cs" t="Include" />
+        <e p="Shipment" t="Include" />
+      </e>
+      <e p="EShop.Orders.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="HistoryUpdateHandler.cs" t="Include" />
+          <e p="OrderChangeMadeHandler.cs" t="Include" />
+        </e>
+        <e p="OrderCanceledOut.cs" t="Include" />
+        <e p="OrderCreatedOut.cs" t="Include" />
+        <e p="OrderPaymentConfirmedOut.cs" t="Include" />
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Orders.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="SecurityOptions.cs" t="Include" />
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetAnonymousCustomerOrder.cs" t="Include" />
+        <e p="GetCustomerOrders.cs" t="Include" />
+        <e p="GetOrder.cs" t="Include" />
+        <e p="GetOrderChanges.cs" t="Include" />
+        <e p="GetOrders.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include">
+          <e p="IAvailabilityService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Orders\src\EShop.Orders.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DTO" t="Include">
+        <e p="InPost24Address.cs" t="Include" />
+        <e p="InPost24AddressDetails.cs" t="Include" />
+        <e p="InPost24LocationDto.cs" t="Include" />
+        <e p="InPost24PlaceDto.cs" t="Include" />
+        <e p="PocztaPolskaPlaceDto.cs" t="Include" />
+      </e>
+      <e p="Entities" t="Include">
+        <e p="CartPricing.cs" t="Include" />
+        <e p="Order.cs" t="Include" />
+        <e p="OrderAddress.cs" t="Include" />
+        <e p="OrderCart.cs" t="Include" />
+        <e p="OrderCartItem.cs" t="Include" />
+        <e p="OrderChange.cs" t="Include" />
+        <e p="OrderCoupon.cs" t="Include" />
+        <e p="OrderDetails.cs" t="Include" />
+        <e p="OrderPricing.cs" t="Include" />
+        <e p="OrderShipment.cs" t="Include" />
+        <e p="PaymentType.cs" t="Include" />
+      </e>
+      <e p="EShop.Orders.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="OrderCanceled.cs" t="Include" />
+        <e p="OrderChangedMade.cs" t="Include" />
+        <e p="OrderCreated.cs" t="Include" />
+        <e p="OrderPaymentConfirmed.cs" t="Include" />
+        <e p="OrderUpdated.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="InvalidOrderException.cs" t="Include" />
+        <e p="InvalidOrderHashException.cs" t="Include" />
+        <e p="OrderCancellationInvalidStateException.cs" t="Include" />
+        <e p="OrderConfirmationInvalidStateException.cs" t="Include" />
+        <e p="OrderNotExists.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Orders.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="IOrderChangeRepository.cs" t="Include" />
+        <e p="IOrderHistoryRepository.cs" t="Include" />
+        <e p="IOrderRepository.cs" t="Include" />
+      </e>
+      <e p="ValueObjects" t="Include">
+        <e p="CompanyAddress.cs" t="Include" />
+        <e p="OrderStatus.cs" t="Include" />
+        <e p="PrivateAddress.cs" t="Include" />
+        <e p="ShipmentType.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Orders\src\EShop.Orders.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.Orders.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include">
+          <e p="AddOrderCreationDateMigration.cs" t="Include" />
+        </e>
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="CartPricingDocument.cs" t="Include" />
+          <e p="Extensions.cs" t="Include" />
+          <e p="OrderAddressDocument.cs" t="Include" />
+          <e p="OrderCartDocument.cs" t="Include" />
+          <e p="OrderCartItemDocument.cs" t="Include" />
+          <e p="OrderCartPricingDocument.cs" t="Include" />
+          <e p="OrderChangeDocument.cs" t="Include" />
+          <e p="OrderCouponDocument.cs" t="Include" />
+          <e p="OrderCustomerDetailsDocument.cs" t="Include" />
+          <e p="OrderDetailsDocument.cs" t="Include" />
+          <e p="OrderDocument.cs" t="Include" />
+          <e p="OrderPricingDocument.cs" t="Include" />
+          <e p="OrderShipmentDocument.cs" t="Include" />
+          <e p="PaymentTypeDocument.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="Extensions.cs" t="Include" />
+            <e p="GetAnonymousCustomerOrderHandler.cs" t="Include" />
+            <e p="GetCustomerOrdersHandler.cs" t="Include" />
+            <e p="GetOrderChangesHandler.cs" t="Include" />
+            <e p="GetOrderHandler.cs" t="Include" />
+            <e p="GetOrdersHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="OrderChangeRepository.cs" t="Include" />
+          <e p="OrderHistoryRepository.cs" t="Include" />
+          <e p="OrderRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Orders.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include" />
+      <e p="Queries" t="Include" />
+      <e p="Services" t="Include">
+        <e p="AvailabilityService.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Payments\src\EShop.Payments.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Payments.Api.csproj" t="IncludeRecursive" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="FIlesController.cs" t="Include" />
+      <e p="logs" t="Include">
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201210_001.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201219.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210111.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Payments.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Payments\src\EShop.Payments.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="GenerateInvoice.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="GenerateInvoiceHandler.cs" t="Include" />
+          <e p="RemoveInvoiceHandler.cs" t="Include" />
+          <e p="SendInvoiceHandler.cs" t="Include" />
+          <e p="StorePaymentHandler.cs" t="Include" />
+        </e>
+        <e p="RemoveInvoice.cs" t="Include" />
+        <e p="SendInvoiceByMail.cs" t="Include" />
+        <e p="SendInvoiceToCustomer.cs" t="Include" />
+        <e p="StorePayment.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="BaseAddressDto.cs" t="Include" />
+        <e p="CartDto.cs" t="Include" />
+        <e p="CartItemDto.cs" t="Include" />
+        <e p="CartPriceDto.cs" t="Include" />
+        <e p="CompanyAddressDto.cs" t="Include" />
+        <e p="CouponValueDto.cs" t="Include" />
+        <e p="CustomerAddressDto.cs" t="Include" />
+        <e p="FileDTO.cs" t="Include" />
+        <e p="GenerateInvoiceDto.cs" t="Include" />
+        <e p="OrderInvoiceDataDto.cs" t="Include" />
+        <e p="OrderNumberedInvoiceDataDto.cs" t="Include" />
+        <e p="PaymentLinkDto.cs" t="Include" />
+        <e p="PaymentMethodDto.cs" t="Include" />
+        <e p="PricingDto.cs" t="Include" />
+        <e p="PrivateAddressDto.cs" t="Include" />
+      </e>
+      <e p="EShop.Payments.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Payments.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="SecurityOptions.cs" t="Include" />
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetInvoicePdf.cs" t="Include" />
+        <e p="GetOrderInvoiceData.cs" t="Include" />
+        <e p="GetPaymentId.cs" t="Include" />
+        <e p="GetPaymentLink.cs" t="Include" />
+        <e p="GetPaymentMethods.cs" t="Include" />
+        <e p="SearchOrderInvoiceData.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include">
+          <e p="IFakturowniaClient.cs" t="Include" />
+          <e p="ITPayMethodsClient.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Payments\src\EShop.Payments.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Entities" t="Include">
+        <e p="PaymentInfo.cs" t="Include" />
+      </e>
+      <e p="EShop.Payments.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include" />
+      <e p="Exceptions" t="Include">
+        <e p="InvoiceDeletionException.cs" t="Include" />
+        <e p="InvoiceDownloadException.cs" t="Include" />
+        <e p="InvoiceGenerationException.cs" t="Include" />
+        <e p="InvoiceSendingException.cs" t="Include" />
+      </e>
+      <e p="Helpers" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Payments.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="IPaymentInfoRepository.cs" t="Include" />
+      </e>
+      <e p="ValueObjects" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Payments\src\EShop.Payments.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="DTO" t="Include">
+        <e p="FakturowniaCalculationStrategyDto.cs" t="Include" />
+        <e p="FakturowniaCreateInvoiceDto.cs" t="Include" />
+        <e p="FakturowniaInvoiceDto.cs" t="Include" />
+        <e p="FakturowniaInvoicePositionDto.cs" t="Include" />
+        <e p="FakturowniaInvoiceRequest.cs" t="Include" />
+        <e p="PaymentLinkRequestDto.cs" t="Include" />
+        <e p="TPayPaymentMethodDto.cs" t="Include" />
+      </e>
+      <e p="EShop.Payments.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Interfaces" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="Extensions.cs" t="Include" />
+          <e p="PaymentInfoDocument.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include" />
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="PaymentInfoRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Payments.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="FakturowniaOptions.cs" t="Include" />
+        <e p="SecurityOptions.cs" t="Include" />
+        <e p="TPayOptions.cs" t="Include" />
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetInvoicePdfHandler.cs" t="Include" />
+        <e p="GetOrderInvoiceDataHandler.cs" t="Include" />
+        <e p="GetPaymentIdHandler.cs" t="Include" />
+        <e p="GetPaymentLinkHandler.cs" t="Include" />
+        <e p="GetPaymentMethodsHandler.cs" t="Include" />
+        <e p="SearchOrderInvoiceDataHandler.cs" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="FakturowniaClient.cs" t="Include" />
+        <e p="TPayMethodsClient.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Shipment\src\EShop.Shipment.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Shipment.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201130.txt" t="Include" />
+        <e p="logs20201203.txt" t="Include" />
+        <e p="logs20201204.txt" t="Include" />
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Shipment.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Shipment\src\EShop.Shipment.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="Handlers" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="InPostShipmentDto.cs" t="Include" />
+        <e p="Orders" t="Include">
+          <e p="AddressDto.cs" t="Include" />
+          <e p="BaseAddressDto.cs" t="Include" />
+          <e p="CartPriceDto.cs" t="Include" />
+          <e p="CompanyAddressDto.cs" t="Include" />
+          <e p="OrderDto.cs" t="Include" />
+          <e p="PaymentTypeDto.cs" t="Include" />
+          <e p="PrivateAddressDto.cs" t="Include" />
+        </e>
+        <e p="Shipment" t="Include">
+          <e p="InPost24Address.cs" t="Include" />
+          <e p="InPost24AddressDetails.cs" t="Include" />
+          <e p="InPost24LocationDto.cs" t="Include" />
+          <e p="InPost24PlaceDto.cs" t="Include" />
+          <e p="OrderShipmentDto.cs" t="Include" />
+          <e p="PocztaPolskaPlaceDto.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EShop.Shipment.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="External" t="Include">
+          <e p="OrderCanceledOut.cs" t="Include" />
+          <e p="OrderCreatedOut.cs" t="Include" />
+          <e p="OrderPaymentConfirmedOut.cs" t="Include" />
+        </e>
+        <e p="ExternalHandlers" t="Include">
+          <e p="OrderCanceledHandler.cs" t="Include" />
+          <e p="OrderCreatedHandler.cs" t="Include" />
+          <e p="OrderPaymentConfirmedHandler.cs" t="Include" />
+        </e>
+        <e p="HistoryUpdateHandler.cs" t="Include" />
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Shipment.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Queries" t="Include">
+        <e p="GetInpostShipments.cs" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include" />
+        <e p="InPostShipmentStore.cs" t="Include" />
+        <e p="Interfaces" t="Include">
+          <e p="IInPostShipmentStore.cs" t="Include" />
+          <e p="IShipmentFactory.cs" t="Include" />
+          <e p="IShipmentStore.cs" t="Include" />
+        </e>
+        <e p="ShipmentFactory.cs" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Shipment\src\EShop.Shipment.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Entities" t="Include">
+        <e p="InPostShipment.cs" t="Include" />
+      </e>
+      <e p="EShop.Shipment.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="InPostShipmentCreated.cs" t="Include" />
+        <e p="InPostShipmentDeleted.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Helpers" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Shipment.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="IInPostShipmentHistoryRepository.cs" t="Include" />
+        <e p="IInPostShipmentRepository.cs" t="Include" />
+      </e>
+      <e p="ValueObjects" t="Include">
+        <e p="ShipmentStatus.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Shipment\src\EShop.Shipment.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.Shipment.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="Extensions.cs" t="Include" />
+          <e p="InPost" t="Include">
+            <e p="Extensions.cs" t="Include" />
+            <e p="InPostShipmentDocument.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="GetInPostShipmentsHandler.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="AvailabilityHistoryRepository.cs" t="Include" />
+          <e p="InPostShipmentRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Shipment.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="InPostOptions.cs" t="Include" />
+      </e>
+      <e p="Queries" t="Include" />
+      <e p="Services" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Solution\EShop" t="IncludeFlat">
+      <e p="Auth" t="Include" />
+      <e p="Availiability" t="Include" />
+      <e p="Customers" t="Include" />
+      <e p="EShop.sln" t="IncludeFlat" />
+      <e p="Files" t="Include" />
+      <e p="Gateway" t="Include" />
+      <e p="Notification" t="Include" />
+      <e p="Orders" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Payments" t="Include" />
+      <e p="Shipment" t="Include" />
+      <e p="Stock" t="Include" />
+      <e p="system" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Stock\src\EShop.Stock.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Stock.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201204.txt" t="Include" />
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210108.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210111.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Stock.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Stock\src\EShop.Stock.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="AddStockCategory.cs" t="Include" />
+        <e p="AddStockProduct.cs" t="Include" />
+        <e p="AddStockSubCategory.cs" t="Include" />
+        <e p="AddStockTag.cs" t="Include" />
+        <e p="AddStockType.cs" t="Include" />
+        <e p="DeleteStockCategory.cs" t="Include" />
+        <e p="DeleteStockProduct.cs" t="Include" />
+        <e p="DeleteStockSubCategory.cs" t="Include" />
+        <e p="DeleteStockTag.cs" t="Include" />
+        <e p="DeleteStockType.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="AddStockCategoryHandler.cs" t="Include" />
+          <e p="AddStockProductHandler.cs" t="Include" />
+          <e p="AddStockSubCategoryHandler.cs" t="Include" />
+          <e p="AddStockTagHandler.cs" t="Include" />
+          <e p="AddStockTypeHandler.cs" t="Include" />
+          <e p="DeleteStockCategoryHandler.cs" t="Include" />
+          <e p="DeleteStockProductHandler.cs" t="Include" />
+          <e p="DeleteStockSubCategoryHandler.cs" t="Include" />
+          <e p="DeleteStockTagHandler.cs" t="Include" />
+          <e p="DeleteStockTypeHandler.cs" t="Include" />
+          <e p="UpdateCategoriesOrderHandler.cs" t="Include" />
+          <e p="UpdateStockCategoryHandler.cs" t="Include" />
+          <e p="UpdateStockProductHandler.cs" t="Include" />
+          <e p="UpdateStockProductsOrderHandler.cs" t="Include" />
+          <e p="UpdateStockSubCategoryHandler.cs" t="Include" />
+          <e p="UpdateStockTagHandler.cs" t="Include" />
+          <e p="UpdateStockTypeHandler.cs" t="Include" />
+          <e p="UpdateStockTypesOrderHandler.cs" t="Include" />
+          <e p="UpdateSubCategoriesOrderHandler.cs" t="Include" />
+        </e>
+        <e p="UpdateCategoriesOrder.cs" t="Include" />
+        <e p="UpdateProductsOrder.cs" t="Include" />
+        <e p="UpdateStockCategory.cs" t="Include" />
+        <e p="UpdateStockProduct.cs" t="Include" />
+        <e p="UpdateStockSubCategory.cs" t="Include" />
+        <e p="UpdateStockTag.cs" t="Include" />
+        <e p="UpdateStockType.cs" t="Include" />
+        <e p="UpdateSubCategoriesOrder.cs" t="Include" />
+        <e p="UpdateTypesOrder.cs" t="Include" />
+      </e>
+      <e p="DTO" t="Include">
+        <e p="Extensions.cs" t="Include" />
+        <e p="FilteredProductsDataDto.cs" t="Include" />
+        <e p="LayoutAvailabilityFilterDto.cs" t="Include" />
+        <e p="LayoutAvailabilityProductDto.cs" t="Include" />
+        <e p="LayoutAvailabilityProductRefreshDataDto.cs" t="Include" />
+        <e p="LayoutCategoryDto.cs" t="Include" />
+        <e p="LayoutCollectionDetailsDto.cs" t="Include" />
+        <e p="LayoutFilterDto.cs" t="Include" />
+        <e p="LayoutIdentifiedProductDto.cs" t="Include" />
+        <e p="LayoutPricingDto.cs" t="Include" />
+        <e p="LayoutProductDto.cs" t="Include" />
+        <e p="LayoutProductRefreshDataDto.cs" t="Include" />
+        <e p="LayoutSubCategoryDto.cs" t="Include" />
+        <e p="LayoutTagDto.cs" t="Include" />
+        <e p="LayoutTagFilterDto.cs" t="Include" />
+        <e p="LayoutTypeDto.cs" t="Include" />
+        <e p="MetaProvider.cs" t="Include" />
+        <e p="MetaSettingsDto.cs" t="Include" />
+        <e p="PageMetaDto.cs" t="Include" />
+        <e p="ProductAvailabilityDto.cs" t="Include" />
+        <e p="Search" t="Include">
+          <e p="SearchCategoryItemDto.cs" t="Include" />
+          <e p="SearchCategoryRootDto.cs" t="Include" />
+          <e p="SearchOrderedCategoryRootDto.cs" t="Include" />
+          <e p="SearchResultDto.cs" t="Include" />
+          <e p="SearchTempTagDto.cs" t="Include" />
+        </e>
+        <e p="SectionDto.cs" t="Include" />
+        <e p="StockCategoryDetailsDTO.cs" t="Include" />
+        <e p="StockCategoryDTO.cs" t="Include" />
+        <e p="StockProductDetailsDto.cs" t="Include" />
+        <e p="StockProductDto.cs" t="Include" />
+        <e p="StockProductOfferDto.cs" t="Include" />
+        <e p="StockProductSectionDetailsDto.cs" t="Include" />
+        <e p="StockProductSectionDto.cs" t="Include" />
+        <e p="StockProductShipmentDto.cs" t="Include" />
+        <e p="StockSubCategoryDetailsDTO.cs" t="Include" />
+        <e p="StockSubCategoryDTO.cs" t="Include" />
+        <e p="StockTagDetailsDto.cs" t="Include" />
+        <e p="StockTagDto.cs" t="Include" />
+        <e p="StockTypeDetailsDto.cs" t="Include" />
+        <e p="StockTypeDto.cs" t="Include" />
+        <e p="Temp" t="Include">
+          <e p="LayoutTempProductRefreshDataDto.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EShop.Stock.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="HistoryUpdateHandler.cs" t="Include" />
+        <e p="ProductMetaUpdateHandler.cs" t="Include" />
+        <e p="Rejected" t="Include" />
+        <e p="StockCategoriesUpdateHandler.cs" t="Include" />
+        <e p="TageMetaUpdateHandler.cs" t="Include" />
+        <e p="TypeMetaUpdateHandler.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="Interfaces" t="Include">
+        <e p="IProductAvailability.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Stock.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Queries" t="Include">
+        <e p="Entities" t="Include">
+          <e p="GetStockCategories.cs" t="Include" />
+          <e p="GetStockCategory.cs" t="Include" />
+          <e p="GetStockProduct.cs" t="Include" />
+          <e p="GetStockProducts.cs" t="Include" />
+          <e p="GetStockSubCategories.cs" t="Include" />
+          <e p="GetStockSubCategory.cs" t="Include" />
+          <e p="GetStockTag.cs" t="Include" />
+          <e p="GetStockTags.cs" t="Include" />
+          <e p="GetStockType.cs" t="Include" />
+          <e p="GetStockTypes.cs" t="Include" />
+        </e>
+        <e p="Layout" t="Include">
+          <e p="GetLayoutCategories.cs" t="Include" />
+          <e p="GetLayoutCategoryProducts.cs" t="Include" />
+          <e p="GetLayoutFilteredCategoryProductsData.cs" t="Include" />
+          <e p="GetLAyoutFilteredTagProductsData.cs" t="Include" />
+          <e p="GetLayoutProductDetails.cs" t="Include" />
+          <e p="GetLayoutSelectedProductsDetails.cs" t="Include" />
+          <e p="GetLayoutTagDetails.cs" t="Include" />
+          <e p="GetLayoutTagFilter.cs" t="Include" />
+          <e p="GetLayoutTagProducts.cs" t="Include" />
+          <e p="GetLayoutTypeDetails.cs" t="Include" />
+          <e p="GetLayoutTypeFilter.cs" t="Include" />
+        </e>
+        <e p="Meta" t="Include">
+          <e p="GetProductMetaDetails.cs" t="Include" />
+          <e p="GetTagMetaDetails.cs" t="Include" />
+          <e p="GetTypeMetaDetails.cs" t="Include" />
+        </e>
+        <e p="Search" t="Include">
+          <e p="GetFilteredSearchProductsData.cs" t="Include" />
+          <e p="GetSearchProductsFilter.cs" t="Include" />
+          <e p="SearchProducts.cs" t="Include" />
+          <e p="SearchRoutes.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include">
+          <e p="IAvailabilityService.cs" t="Include" />
+          <e p="IFileService.cs" t="Include" />
+        </e>
+        <e p="ILayoutCategoriesCacheManager.cs" t="Include" />
+        <e p="IMetaCacheManager.cs" t="Include" />
+        <e p="IPromotionAvailabilityService.cs" t="Include" />
+        <e p="PromotionAvailabilityService.cs" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+      <e p="Types" t="Include">
+        <e p="SearchTypes.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Stock\src\EShop.Stock.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Constants" t="Include">
+        <e p="StockConstants.cs" t="Include" />
+      </e>
+      <e p="Entities" t="Include">
+        <e p="Category" t="Include">
+          <e p="StockCategory.cs" t="Include" />
+          <e p="StockCategoryDetails.cs" t="Include" />
+        </e>
+        <e p="MetaSettings.cs" t="Include" />
+        <e p="Product" t="Include">
+          <e p="StockProduct.cs" t="Include" />
+          <e p="StockProductDetails.cs" t="Include" />
+          <e p="StockProductOffer.cs" t="Include" />
+          <e p="StockProductSection.cs" t="Include" />
+          <e p="StockProductSectionDetails.cs" t="Include" />
+          <e p="StockProductShipment.cs" t="Include" />
+        </e>
+        <e p="SubCategory" t="Include">
+          <e p="StockSubCategory.cs" t="Include" />
+          <e p="StockSubCategoryDetails.cs" t="Include" />
+        </e>
+        <e p="Tags" t="Include">
+          <e p="StockTag.cs" t="Include" />
+          <e p="StockTagDetails.cs" t="Include" />
+        </e>
+        <e p="Type" t="Include">
+          <e p="StockType.cs" t="Include" />
+          <e p="StockTypeDetails.cs" t="Include" />
+        </e>
+      </e>
+      <e p="EShop.Stock.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="StockCategoryCreated.cs" t="Include" />
+        <e p="StockCategoryDeleted.cs" t="Include" />
+        <e p="StockCategoryOrdersChanged.cs" t="Include" />
+        <e p="StockCategoryUpdated.cs" t="Include" />
+        <e p="StockProductCreated.cs" t="Include" />
+        <e p="StockProductDeleted.cs" t="Include" />
+        <e p="StockProductOrdersChanged.cs" t="Include" />
+        <e p="StockProductUpdated.cs" t="Include" />
+        <e p="StockSubCategoryCreated.cs" t="Include" />
+        <e p="StockSubCategoryDeleted.cs" t="Include" />
+        <e p="StockSubCategoryOrdersChanged.cs" t="Include" />
+        <e p="StockSubCategoryUpdated.cs" t="Include" />
+        <e p="StockTagCreated.cs" t="Include" />
+        <e p="StockTagDeleted.cs" t="Include" />
+        <e p="StockTagUpdated.cs" t="Include" />
+        <e p="StockTypeCreated.cs" t="Include" />
+        <e p="StockTypeDeleted.cs" t="Include" />
+        <e p="StockTypeOrdersChanged.cs" t="Include" />
+        <e p="StockTypeUpdated.cs" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include">
+        <e p="CategoryBelongsToSubCategoriesException.cs" t="Include" />
+        <e p="EntityAlreadyUpdatedException.cs" t="Include" />
+        <e p="MaxProductsPerPageExceededException.cs" t="Include" />
+        <e p="StockCategoryExistsException.cs" t="Include" />
+        <e p="StockCategoryNotExistsException.cs" t="Include" />
+        <e p="StockProductExistsException.cs" t="Include" />
+        <e p="StockProductNotAssociatedToAnyType.cs" t="Include" />
+        <e p="StockProductNotExistsException.cs" t="Include" />
+        <e p="StockSubCategoryExistsException.cs" t="Include" />
+        <e p="StockSubCategoryNotExistsException.cs" t="Include" />
+        <e p="StockTagExistsException.cs" t="Include" />
+        <e p="StockTagNotExistsException.cs" t="Include" />
+        <e p="StockTypeExistsException.cs" t="Include" />
+        <e p="StockTypeNotExistsException.cs" t="Include" />
+        <e p="UnknownCategoryParentTypeException.cs" t="Include" />
+      </e>
+      <e p="Inerfaces" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Stock.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include">
+        <e p="IStockCategoryRepository.cs" t="Include" />
+        <e p="IStockHistoryRepository.cs" t="Include" />
+        <e p="IStockProductRepository.cs" t="Include" />
+        <e p="IStockSubCategoryRepository.cs" t="Include" />
+        <e p="IStockTagRepository.cs" t="Include" />
+        <e p="IStockTypeRepository.cs" t="Include" />
+      </e>
+      <e p="ValueObjects" t="Include">
+        <e p="AppMetaTitlePlace.cs" t="Include" />
+        <e p="CollectionSorting.cs" t="Include" />
+        <e p="ProductCategoryType.cs" t="Include" />
+        <e p="StockCategorySpecialType.cs" t="Include" />
+        <e p="TagPlace.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.Stock\src\EShop.Stock.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="DTO" t="Include" />
+      <e p="EShop.Stock.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Languages" t="Include">
+        <e p="Supported.cs" t="Include" />
+      </e>
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include">
+          <e p="AddStockNumberMigration.cs" t="Include" />
+          <e p="AddStockProductCreationDateMigration.cs" t="Include" />
+          <e p="AddStockProductPromotionPriceMigration.cs" t="Include" />
+          <e p="AddStockProductShipmentMigration.cs" t="Include" />
+          <e p="AddStockProductTargetPriceMigration.cs" t="Include" />
+          <e p="AddStockTypeDetailsDictionaryMigration.cs" t="Include" />
+          <e p="NotEmptyStringMigration.cs" t="Include" />
+          <e p="OrderTableMigration.cs" t="Include" />
+          <e p="ProcessDto.cs" t="Include" />
+          <e p="RemoveSpecialTypeMigration.cs" t="Include" />
+          <e p="StockIndexMigration.cs" t="Include" />
+          <e p="StockOrderIndexMigration.cs" t="Include" />
+        </e>
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="Base" t="Include">
+          <e p="OrderedDocument.cs" t="Include" />
+        </e>
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="Extensions.cs" t="Include" />
+          <e p="MetaSettingsDocument.cs" t="Include" />
+          <e p="StockCategoryDetailsDocument.cs" t="Include" />
+          <e p="StockCategoryDocument.cs" t="Include" />
+          <e p="StockProductDetailsDocument.cs" t="Include" />
+          <e p="StockProductDocument.cs" t="Include" />
+          <e p="StockProductOfferDocument.cs" t="Include" />
+          <e p="StockProductSectionDetailsDocument.cs" t="Include" />
+          <e p="StockProductSectionDocument.cs" t="Include" />
+          <e p="StockProductShipmentDocument.cs" t="Include" />
+          <e p="StockSubCategoryDetailsDocument.cs" t="Include" />
+          <e p="StockSubCategoryDocument.cs" t="Include" />
+          <e p="StockTagDetailsDocument.cs" t="Include" />
+          <e p="StockTagDocument.cs" t="Include" />
+          <e p="StockTypeDetailsDocument.cs" t="Include" />
+          <e p="StockTypeDocument.cs" t="Include" />
+        </e>
+        <e p="DTO" t="Include">
+          <e p="LayoutStockProductSortDocumentDto.cs" t="Include" />
+          <e p="LayoutTempSearchDto.cs" t="Include" />
+          <e p="ProductIdDto.cs" t="Include" />
+          <e p="ProductsPagingDataDto.cs" t="Include" />
+          <e p="ProductsPagingDto.cs" t="Include" />
+          <e p="Search" t="Include">
+            <e p="SearchStockProductDocumentDto.cs" t="Include" />
+          </e>
+          <e p="StockOrderedCategoryDocumentDto.cs" t="Include" />
+          <e p="StockOrderedProductDocumentDto.cs" t="Include" />
+          <e p="StockOrderedSubCategoryDocumentDto.cs" t="Include" />
+          <e p="StockOrderedTypeDocumentDto.cs" t="Include" />
+          <e p="StockProductDocumentSingleOrderedDto.cs" t="Include" />
+          <e p="StockProductDocumentWithOrderedDto.cs" t="Include" />
+        </e>
+        <e p="Extensions" t="Include">
+          <e p="StocksExtensions.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IOffered.cs" t="Include" />
+          <e p="ITagged.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include">
+            <e p="Entities" t="Include">
+              <e p="GetStockCategoriesHandler.cs" t="Include" />
+              <e p="GetStockCategoryHandler.cs" t="Include" />
+              <e p="GetStockProductHandler.cs" t="Include" />
+              <e p="GetStockProductsHandler.cs" t="Include" />
+              <e p="GetStockSubCategoriesHandler.cs" t="Include" />
+              <e p="GetStockSubCategoryHandler.cs" t="Include" />
+              <e p="GetStockTagHandler.cs" t="Include" />
+              <e p="GetStockTagsHandler.cs" t="Include" />
+              <e p="GetStockTypeHandler.cs" t="Include" />
+              <e p="GetStockTypesHandler.cs" t="Include" />
+            </e>
+            <e p="Layout" t="Include">
+              <e p="GetLayoutCategoriesHandler.cs" t="Include" />
+              <e p="GetLayoutCategoryProductsHandler.cs" t="Include" />
+              <e p="GetLayoutFilteredCategoryProductsDataHandler.cs" t="Include" />
+              <e p="GetLayoutFilteredTagProductsDataHandler.cs" t="Include" />
+              <e p="GetLayoutProductDetailsHandler.cs" t="Include" />
+              <e p="GetLayoutSelectedProductsDetailsHandler.cs" t="Include" />
+              <e p="GetLayoutTagDetailsHandler.cs" t="Include" />
+              <e p="GetLayoutTagFilterHandler.cs" t="Include" />
+              <e p="GetLayoutTagProductsHandler.cs" t="Include" />
+              <e p="GetLayoutTypeDetailsHandler.cs" t="Include" />
+              <e p="GetLayoutTypeFilterHandler.cs" t="Include" />
+            </e>
+            <e p="Meta" t="Include">
+              <e p="GetProductMetaDetailsHandler.cs" t="Include" />
+              <e p="GetTagMetaDetailsHandler.cs" t="Include" />
+              <e p="GetTypeMetaDetailsHandler.cs" t="Include" />
+            </e>
+            <e p="Search" t="Include">
+              <e p="GetFilteredSearchProductsDataHandler.cs" t="Include" />
+              <e p="GetSearchProductsFilterHandler.cs" t="Include" />
+              <e p="SearchProductsHandler.cs" t="Include" />
+              <e p="SearchRoutesHandler.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="StockCategoryRepository.cs" t="Include" />
+          <e p="StockHistoryRepository.cs" t="Include" />
+          <e p="StockProductRepository.cs" t="Include" />
+          <e p="StockSubCategoryRepository.cs" t="Include" />
+          <e p="StockTagRepository.cs" t="Include" />
+          <e p="StockTypeRepository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Stock.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include">
+        <e p="StockOptions.cs" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include">
+          <e p="AvailabilityService.cs" t="Include" />
+          <e p="FileService.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IProductAvailabilityService.cs" t="Include" />
+          <e p="IProductsPagingProvider.cs" t="Include" />
+          <e p="IProductsQueryablesQueries.cs" t="Include" />
+        </e>
+        <e p="LayoutCategoriesCacheCacheManager.cs" t="Include" />
+        <e p="MetaCacheManager.cs" t="Include" />
+        <e p="ProductAvailabilityService.cs" t="Include" />
+        <e p="ProductsPagingProvider.cs" t="Include" />
+        <e p="ProductsQueryableQueries.cs" t="Include" />
+        <e p="QueryExtensions.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.System\src\EShop.System.Api" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.System.Api.csproj" t="IncludeRecursive" />
+      <e p="logs" t="Include">
+        <e p="logs20201130.txt" t="Include" />
+        <e p="logs20201203.txt" t="Include" />
+        <e p="logs20201204.txt" t="Include" />
+        <e p="logs20201205.txt" t="Include" />
+        <e p="logs20201206.txt" t="Include" />
+        <e p="logs20201207.txt" t="Include" />
+        <e p="logs20201208.txt" t="Include" />
+        <e p="logs20201209.txt" t="Include" />
+        <e p="logs20201210.txt" t="Include" />
+        <e p="logs20201211.txt" t="Include" />
+        <e p="logs20201212.txt" t="Include" />
+        <e p="logs20201213.txt" t="Include" />
+        <e p="logs20201214.txt" t="Include" />
+        <e p="logs20201215.txt" t="Include" />
+        <e p="logs20201216.txt" t="Include" />
+        <e p="logs20201217.txt" t="Include" />
+        <e p="logs20201218.txt" t="Include" />
+        <e p="logs20201220.txt" t="Include" />
+        <e p="logs20201221.txt" t="Include" />
+        <e p="logs20201222.txt" t="Include" />
+        <e p="logs20201223.txt" t="Include" />
+        <e p="logs20201228.txt" t="Include" />
+        <e p="logs20201229.txt" t="Include" />
+        <e p="logs20201230.txt" t="Include" />
+        <e p="logs20210105.txt" t="Include" />
+        <e p="logs20210106.txt" t="Include" />
+        <e p="logs20210107.txt" t="Include" />
+        <e p="logs20210110.txt" t="Include" />
+        <e p="logs20210112.txt" t="Include" />
+        <e p="logs20210113.txt" t="Include" />
+        <e p="logs20210114.txt" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.System.Api.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\AAS\EShop.System\src\EShop.System.Application" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Commands" t="Include">
+        <e p="Handlers" t="Include" />
+      </e>
+      <e p="DTO" t="Include" />
+      <e p="EShop.System.Application.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include">
+        <e p="EventMapper.cs" t="Include" />
+        <e p="Rejected" t="Include" />
+      </e>
+      <e p="Exceptions" t="Include" />
+      <e p="Extensions.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.System.Application.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Queries" t="Include" />
+      <e p="Resources" t="Include">
+        <e p="Texts.pl.Designer.cs" t="Include" />
+        <e p="Texts.pl.resx" t="Include" />
+      </e>
+      <e p="Services" t="Include">
+        <e p="Clients" t="Include" />
+      </e>
+      <e p="Shared" t="Include" />
+      <e p="Texts.cs" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.System\src\EShop.System.Core" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Entities" t="Include" />
+      <e p="EShop.System.Core.csproj" t="IncludeRecursive" />
+      <e p="Events" t="Include" />
+      <e p="Exceptions" t="Include" />
+      <e p="Helpers" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.System.Core.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Repositories" t="Include" />
+      <e p="ValueObjects" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.System\src\EShop.System.Infrastructure" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="AssemblyInfo.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Contexts" t="Include" />
+      <e p="EShop.System.Infrastructure.csproj" t="IncludeRecursive" />
+      <e p="Exceptions" t="Include">
+        <e p="ExceptionToMessageMapper.cs" t="Include" />
+        <e p="InternalizationExceptionToResponseMapper.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="Logging" t="Include">
+        <e p="MessageToLogTemplateMapper.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="0_0_0" t="Include" />
+        <e p="Extensions.cs" t="Include" />
+        <e p="Versions.cs" t="Include" />
+      </e>
+      <e p="Mongo" t="Include">
+        <e p="DbConst.cs" t="Include" />
+        <e p="Documents" t="Include">
+          <e p="Extensions.cs" t="Include" />
+        </e>
+        <e p="Queries" t="Include">
+          <e p="Handlers" t="Include" />
+        </e>
+        <e p="Repositories" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.System.Infrastructure.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Options" t="Include" />
+      <e p="Queries" t="Include" />
+      <e p="Services" t="Include" />
+    </e>
+    <e p="C:\AAS\EShop.Webhooks\src\EShop.Webhooks" t="IncludeRecursive">
+      <e p=".editorconfig" t="Include" />
+      <e p="appsettings.development.json" t="Include" />
+      <e p="appsettings.docker.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="appsettings.local.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="EShop.Webhooks.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="EShop.Webhooks.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ocelot.docker.json" t="Include" />
+      <e p="ocelot.json" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\aadam\.nuget\packages\microsoft.visualstudio.threading.analyzers\16.8.55\build\AdditionalFiles\vs-threading.LegacyThreadSwitchingMembers.txt" t="Include" />
+    <e p="C:\Users\aadam\.nuget\packages\microsoft.visualstudio.threading.analyzers\16.8.55\build\AdditionalFiles\vs-threading.MainThreadAssertingMethods.txt" t="Include" />
+    <e p="C:\Users\aadam\.nuget\packages\microsoft.visualstudio.threading.analyzers\16.8.55\build\AdditionalFiles\vs-threading.MainThreadSwitchingMethods.txt" t="Include" />
+    <e p="C:\Users\aadam\.nuget\packages\microsoft.visualstudio.threading.analyzers\16.8.55\build\AdditionalFiles\vs-threading.MembersRequiringMainThread.txt" t="Include" />
+    <e p="C:\Users\aadam\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aadam\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_EShop.1608297324.00" t="ExcludeRecursive" />
+  </component>
+</project>

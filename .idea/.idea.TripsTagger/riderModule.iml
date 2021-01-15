@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.APIGateway/src/TripsTagger.APIGateway" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Architecture/TripsTagger.Architecture" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Auth/src/TripsTagger.Auth.Api" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Auth/src/TripsTagger.Auth.Application" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Auth/src/TripsTagger.Auth.Core" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Auth/src/TripsTagger.Auth.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Client/src/TripsTagger.Client.Application" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Client/src/TripsTagger.Client.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Client/src/TripsTagger.Client.Web" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Notification/src/TripsTagger.Notification.Application" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Notification/src/TripsTagger.Notification.Host" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Notification/src/TripsTagger.Notification.Infrastructure" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Process/src/TripsTagger.Process.Api" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Process/src/TripsTagger.Process.Application" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Process/src/TripsTagger.Process.Core" />
+    <content url="file://$MODULE_DIR$/../../../TripsTagger.Process/src/TripsTagger.Process.Infrastructure" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
