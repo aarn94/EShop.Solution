@@ -10,7 +10,7 @@ services:
       - 443:443
     environment:
       - NGINX_HOST=adrianadamiaksolutions.pl
-      - NGINX_CLIENT_PORT=820
+      - NGINX_CLIENT_PORT=829
       - NGINX_ADMIN_PORT=810
       - NGINX_CLIENTAPI_PORT=821
       - NGINX_ADMINAPI_PORT=811
@@ -64,9 +64,10 @@ services:
     environment:
       - CLIENT_KEY=/etc/nginx/certs/private.key
       - CLIENT_CERT=/etc/nginx/certs/certificate.crt
+      - REDIRECT_PORT=443
     ports:
       - 8210:80
-      - 820:443
+      - 829:443
     networks:
       - aasolution
 

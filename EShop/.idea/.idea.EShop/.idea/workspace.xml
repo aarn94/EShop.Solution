@@ -4,7 +4,11 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dbc9bdd-5d81-4710-9fff-618c92d9ff1f" name="Default Changelist" comment="" />
+    <list default="true" id="3dbc9bdd-5d81-4710-9fff-618c92d9ff1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EShop/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EShop/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EShop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EShop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compose/development/services.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../compose/development/services.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -514,6 +518,7 @@
     <setting file="file://$PROJECT_DIR$/../../EShop.System/src/EShop.System.Api/appsettings.local.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.System/src/EShop.System.Api/.editorconfig" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.System/src/EShop.System.Infrastructure/Exceptions/InternalizationExceptionToResponseMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2CFE02FA-1728-4AA1-B0D1-250B96439BD0/92/9dcdedb5/CorsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D8D12B97-8555-48F6-96B3-BBC6BF89FCBA/3F/HttpMethod.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.System/src/EShop.System.Application/Resources/Texts.pl.resx" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.System/src/EShop.System.Application/Events/EventMapper.cs" root0="FORCE_HIGHLIGHTING" />
@@ -884,7 +889,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DE420DEC-BBDF-455D-B31A-3AD5949A4906/46/32084bd7/IdentityUser`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.Availability/src/EShop.Availability.Infrastructure/Mongo/Repositories/LoadRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.Shipment/src/EShop.Shipment.Api/appsettings.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/.editorconfig" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.Availability/src/EShop.Availability.Core/Repositories/ILoadRepository.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.Stock/src/EShop.Stock.Application/DTO/MetaProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../EShop.Availability/src/EShop.Availability.Infrastructure/Mongo/Documents/LoadDocument.cs" root0="FORCE_HIGHLIGHTING" />
@@ -1153,7 +1157,6 @@
         <option value="$PROJECT_DIR$/../../EShop.Shipment/src/EShop.Shipment.Infrastructure/Extensions.cs" />
         <option value="$PROJECT_DIR$/../../EShop.Shipment/src/EShop.Shipment.Application/Events/HistoryUpdateHandler.cs" />
         <option value="$PROJECT_DIR$/../../EShop.AdminGateway/src/EShop.AdminGateway/appsettings.json" />
-        <option value="$PROJECT_DIR$/../../EShop.APIGateway/src/EShop.APIGateway/appsettings.json" />
         <option value="$PROJECT_DIR$/../../EShop.Webhooks/src/EShop.Webhooks/ocelot.docker.json" />
         <option value="$PROJECT_DIR$/../../EShop.Webhooks/src/EShop.Webhooks/ocelot.json" />
         <option value="$PROJECT_DIR$/../../EShop.Webhooks/src/EShop.Webhooks/appsettings.json" />
@@ -1169,13 +1172,14 @@
         <option value="$PROJECT_DIR$/../../EShop.Payments/src/EShop.Payments.Api/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/../../EShop.System/src/EShop.System.Api/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/../../EShop.Webhooks/src/EShop.Webhooks/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/../../EShop.APIGateway/src/EShop.APIGateway/appsettings.docker.json" />
         <option value="$PROJECT_DIR$/../../EShop.APIGateway/src/EShop.APIGateway/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/../../EShop.APIGateway/src/EShop.APIGateway/Program.cs" />
         <option value="$PROJECT_DIR$/../../EShop.Webhooks/src/EShop.Webhooks/appsettings.docker.json" />
-        <option value="$PROJECT_DIR$/../../EShop.AdminGateway/src/EShop.AdminGateway/appsettings.docker.json" />
         <option value="$PROJECT_DIR$/../../EShop.Webhooks/src/EShop.Webhooks/Program.cs" />
         <option value="$PROJECT_DIR$/../../EShop.AdminGateway/src/EShop.AdminGateway/Program.cs" />
+        <option value="$PROJECT_DIR$/../../EShop.AdminGateway/src/EShop.AdminGateway/appsettings.docker.json" />
+        <option value="$PROJECT_DIR$/../../EShop.APIGateway/src/EShop.APIGateway/appsettings.json" />
+        <option value="$PROJECT_DIR$/../../EShop.APIGateway/src/EShop.APIGateway/appsettings.docker.json" />
+        <option value="$PROJECT_DIR$/../../EShop.APIGateway/src/EShop.APIGateway/Program.cs" />
       </list>
     </option>
   </component>
@@ -1201,7 +1205,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.EShop.APIGateway">
+  <component name="RunManager" selected="Compound.Solution">
     <configuration name="Solution" type="CompoundRunConfigurationType">
       <toRun name="EShop.Customers.Api" type="LaunchSettings" />
       <toRun name="EShop.Files.Api" type="LaunchSettings" />
@@ -1575,6 +1579,8 @@
       <workItem from="1610547981149" duration="4626000" />
       <workItem from="1610570637713" duration="7932000" />
       <workItem from="1610636117664" duration="10017000" />
+      <workItem from="1610751569907" duration="11826000" />
+      <workItem from="1610830056874" duration="225000" />
     </task>
     <servers />
   </component>
@@ -1597,10 +1603,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2114" y="222" width="1092" height="532" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610636645445">
+    <state x="2114" y="222" width="1092" height="556" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610751645868">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2114" y="222" width="1092" height="532" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610636645445" />
+    <state x="2114" y="222" width="1092" height="556" key="#com.intellij.execution.impl.EditConfigurationsDialog/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610751645868" />
     <state x="-1839" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608050962327" />
     <state x="75" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@0.0.1776.1040" timestamp="1607324331561" />
     <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-4656.0.1368.892/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604592785806" />
@@ -1626,11 +1632,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1430" y="0" width="940" height="1040" key="EditorConfigExporter/-4656.0.1368.892/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1604608901696" />
-    <state width="1381" height="277" key="GridCell.Tab.0.bottom" timestamp="1610664037949">
+    <state width="1381" height="354" key="GridCell.Tab.0.bottom" timestamp="1610830208508">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1381" height="190" key="GridCell.Tab.0.bottom/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610548122267" />
-    <state width="1381" height="277" key="GridCell.Tab.0.bottom/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610664037949" />
+    <state width="1381" height="354" key="GridCell.Tab.0.bottom/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610830208508" />
     <state width="1382" height="176" key="GridCell.Tab.0.bottom/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608059235642" />
     <state width="1273" height="200" key="GridCell.Tab.0.bottom/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@0.0.1776.1040" timestamp="1608329422792" />
     <state width="1381" height="158" key="GridCell.Tab.0.bottom/-4656.0.1368.892/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610011717766" />
@@ -1640,11 +1646,11 @@
     <state width="1381" height="277" key="GridCell.Tab.0.bottom/-4656.0.2736.1824/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608016096581" />
     <state width="1293" height="206" key="GridCell.Tab.0.bottom/0.0.1224.872@0.0.1224.872" timestamp="1607344926882" />
     <state width="969" height="170" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1609340852356" />
-    <state width="1381" height="277" key="GridCell.Tab.0.center" timestamp="1610664037949">
+    <state width="1381" height="354" key="GridCell.Tab.0.center" timestamp="1610830208507">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1381" height="190" key="GridCell.Tab.0.center/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610548122266" />
-    <state width="1381" height="277" key="GridCell.Tab.0.center/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610664037949" />
+    <state width="1381" height="354" key="GridCell.Tab.0.center/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610830208507" />
     <state width="1382" height="176" key="GridCell.Tab.0.center/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608059235642" />
     <state width="1273" height="200" key="GridCell.Tab.0.center/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@0.0.1776.1040" timestamp="1608329422792" />
     <state width="1381" height="158" key="GridCell.Tab.0.center/-4656.0.1368.892/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610011717766" />
@@ -1654,11 +1660,11 @@
     <state width="1381" height="277" key="GridCell.Tab.0.center/-4656.0.2736.1824/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608016096581" />
     <state width="1293" height="206" key="GridCell.Tab.0.center/0.0.1224.872@0.0.1224.872" timestamp="1607344926882" />
     <state width="969" height="170" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1609340852355" />
-    <state width="1381" height="277" key="GridCell.Tab.0.left" timestamp="1610664037949">
+    <state width="1381" height="354" key="GridCell.Tab.0.left" timestamp="1610830208507">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1381" height="190" key="GridCell.Tab.0.left/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610548122266" />
-    <state width="1381" height="277" key="GridCell.Tab.0.left/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610664037949" />
+    <state width="1381" height="354" key="GridCell.Tab.0.left/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610830208507" />
     <state width="1382" height="176" key="GridCell.Tab.0.left/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608059235642" />
     <state width="1273" height="200" key="GridCell.Tab.0.left/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@0.0.1776.1040" timestamp="1608329422792" />
     <state width="1381" height="158" key="GridCell.Tab.0.left/-4656.0.1368.892/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610011717766" />
@@ -1668,11 +1674,11 @@
     <state width="1381" height="277" key="GridCell.Tab.0.left/-4656.0.2736.1824/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608016096581" />
     <state width="1293" height="206" key="GridCell.Tab.0.left/0.0.1224.872@0.0.1224.872" timestamp="1607344926882" />
     <state width="969" height="170" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1609340852355" />
-    <state width="1381" height="277" key="GridCell.Tab.0.right" timestamp="1610664037949">
+    <state width="1381" height="354" key="GridCell.Tab.0.right" timestamp="1610830208508">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1381" height="190" key="GridCell.Tab.0.right/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610548122266" />
-    <state width="1381" height="277" key="GridCell.Tab.0.right/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610664037949" />
+    <state width="1381" height="354" key="GridCell.Tab.0.right/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610830208508" />
     <state width="1382" height="176" key="GridCell.Tab.0.right/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608059235642" />
     <state width="1273" height="200" key="GridCell.Tab.0.right/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@0.0.1776.1040" timestamp="1608329422792" />
     <state width="1381" height="158" key="GridCell.Tab.0.right/-4656.0.1368.892/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1610011717766" />
@@ -1890,11 +1896,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1387" y="117" width="1592" height="856" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@0.0.1776.1040" timestamp="1605861809905" />
-    <state x="241" y="106" width="1515" height="723" maximized="true" key="dock-window-1" timestamp="1610636204290">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2123" y="253" width="1507" height="723" maximized="true" key="dock-window-1" timestamp="1610805850761">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2037" y="52" width="1523" height="810" maximized="true" key="dock-window-1/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1610470443748" />
-    <state x="241" y="106" width="1515" height="723" maximized="true" key="dock-window-1/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610636204290" />
+    <state x="2123" y="253" width="1507" height="723" maximized="true" key="dock-window-1/-2736.0.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1610805850761" />
     <state x="0" y="171" width="1295" height="701" maximized="true" key="dock-window-1/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1608051284742" />
     <state x="-1856" y="130" width="995" height="998" maximized="true" key="dock-window-1/-4656.0.1296.892/0.0.1776.1040/-1920.0.1920.1040@0.0.1776.1040" timestamp="1608236456499" />
     <state x="0" y="98" width="1310" height="971" maximized="true" key="dock-window-1/-4656.0.1368.892/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1609961375093" />

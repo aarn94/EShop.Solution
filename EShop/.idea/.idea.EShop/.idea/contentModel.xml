@@ -54,7 +54,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.Auth.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201205.txt" t="Include" />
         <e p="logs20201206.txt" t="Include" />
         <e p="logs20201207.txt" t="Include" />
         <e p="logs20201208.txt" t="Include" />
@@ -85,6 +84,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -300,7 +300,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.Availability.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201205.txt" t="Include" />
         <e p="logs20201206.txt" t="Include" />
         <e p="logs20201207.txt" t="Include" />
         <e p="logs20201208.txt" t="Include" />
@@ -331,6 +330,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -511,7 +511,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.Customers.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201206.txt" t="Include" />
         <e p="logs20201207.txt" t="Include" />
         <e p="logs20201208.txt" t="Include" />
         <e p="logs20201209.txt" t="Include" />
@@ -542,6 +541,7 @@
         <e p="logs20210112_001.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -762,7 +762,6 @@
       <e p="Extensions.cs" t="Include" />
       <e p="FIlesController.cs" t="Include" />
       <e p="logs" t="Include">
-        <e p="logs20201130.txt" t="Include" />
         <e p="logs20201203.txt" t="Include" />
         <e p="logs20201204.txt" t="Include" />
         <e p="logs20201205.txt" t="Include" />
@@ -793,6 +792,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -926,7 +926,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.Notification.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201128.txt" t="Include" />
         <e p="logs20201130.txt" t="Include" />
         <e p="logs20201203.txt" t="Include" />
         <e p="logs20201204.txt" t="Include" />
@@ -957,6 +956,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -1088,7 +1088,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.Orders.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201205.txt" t="Include" />
         <e p="logs20201206.txt" t="Include" />
         <e p="logs20201207.txt" t="Include" />
         <e p="logs20201208.txt" t="Include" />
@@ -1119,6 +1118,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -1359,7 +1359,6 @@
       <e p="Extensions.cs" t="Include" />
       <e p="FIlesController.cs" t="Include" />
       <e p="logs" t="Include">
-        <e p="logs20201205.txt" t="Include" />
         <e p="logs20201206.txt" t="Include" />
         <e p="logs20201207.txt" t="Include" />
         <e p="logs20201208.txt" t="Include" />
@@ -1390,6 +1389,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -1577,7 +1577,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.Shipment.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201130.txt" t="Include" />
         <e p="logs20201203.txt" t="Include" />
         <e p="logs20201204.txt" t="Include" />
         <e p="logs20201205.txt" t="Include" />
@@ -1608,6 +1607,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -1795,7 +1795,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.Stock.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201204.txt" t="Include" />
         <e p="logs20201205.txt" t="Include" />
         <e p="logs20201206.txt" t="Include" />
         <e p="logs20201207.txt" t="Include" />
@@ -1826,6 +1825,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
@@ -2275,7 +2275,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="EShop.System.Api.csproj" t="IncludeRecursive" />
       <e p="logs" t="Include">
-        <e p="logs20201130.txt" t="Include" />
         <e p="logs20201203.txt" t="Include" />
         <e p="logs20201204.txt" t="Include" />
         <e p="logs20201205.txt" t="Include" />
@@ -2306,6 +2305,7 @@
         <e p="logs20210112.txt" t="Include" />
         <e p="logs20210113.txt" t="Include" />
         <e p="logs20210114.txt" t="Include" />
+        <e p="logs20210116.txt" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
