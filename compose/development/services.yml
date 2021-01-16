@@ -10,7 +10,7 @@ services:
       - 443:443
     environment:
       - NGINX_HOST=adrianadamiaksolutions.pl
-      - NGINX_CLIENT_PORT=8210
+      - NGINX_CLIENT_PORT=820
       - NGINX_ADMIN_PORT=810
       - NGINX_CLIENTAPI_PORT=821
       - NGINX_ADMINAPI_PORT=811
